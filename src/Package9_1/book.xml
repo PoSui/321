@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<books>
+    <book bid="1">
+        <name>java与模式</name>
+        <price>80</price>
+    </book>
+    <book bid="2">
+        <name>java编程思想</name>
+        <price>95</price>
+    </book>
+    <book bid="3">
+        <name>疯狂java讲义</name>
+        <price>90</price>
+    </book>
+</books>

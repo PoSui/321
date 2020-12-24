@@ -1,0 +1,7 @@
+<?xml version = '1.0'?>
+<beans>
+    <bean id ='student' class='test.three.Student'>
+        <property name = 'name'>tom</property>
+        <property name = 'age'>18</property>
+    </bean>
+</beans>
